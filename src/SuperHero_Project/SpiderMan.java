@@ -30,7 +30,7 @@ public class SpiderMan extends SuperHeroes {
 
     @Override
     public void exposeSecretPower() {
-        super.exposeSecretPower();
+
         System.out.println(getName() + " , örümcek ağı püskürtme yeteneğine sahiptir.");
 
 

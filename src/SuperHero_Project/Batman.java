@@ -31,7 +31,7 @@ public class Batman extends SuperHeroes {
 
     @Override
     public void exposeSecretPower() {
-        super.exposeSecretPower();
+
         System.out.println(getName() + "dedektif becerilerine sahiptir ve bu yeteneğiyle suçluları yakalamada ustalaşmıştır. ");
     }
 

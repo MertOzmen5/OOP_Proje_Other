@@ -30,7 +30,7 @@ public class Superman extends SuperHeroes {
 
     @Override
     public void exposeSecretPower() {
-        super.exposeSecretPower();
+
         System.out.println("Superman Supersonic Flight hızında uçma yeteneğine sahiptir.");
     }
 

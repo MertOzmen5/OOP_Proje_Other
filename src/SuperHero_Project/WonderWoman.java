@@ -30,7 +30,7 @@ public class WonderWoman extends SuperHeroes {
 
     @Override
     public void exposeSecretPower() {
-        super.exposeSecretPower();
+
         System.out.println("Bilekliklerini birbirine vurunca sismik dalga yaratır.");
     }
 

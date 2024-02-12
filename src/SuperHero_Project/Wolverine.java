@@ -31,7 +31,7 @@ public class Wolverine extends SuperHeroes{
 
     @Override
     public void exposeSecretPower() {
-        super.exposeSecretPower();
+
         System.out.println(getName()+"adamantium pençelerine sahiptir ve bu pençeleriyle her türlü maddeyi kesip parçalayabilir.");
     }
 

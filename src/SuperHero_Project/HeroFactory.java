@@ -7,7 +7,7 @@ public class HeroFactory {
         if (superHero.equalsIgnoreCase("Superman")) {
             return new Superman("superman", "erkek", "1000", "800", "900", "Supersonic Flight");
         } else if (superHero.equalsIgnoreCase("wonder woman")) {
-            return new WonderWoman("Wonder Woman", "kadın", "800", "1000", "950", "Golden Lasso");
+            return new WonderWoman("wonder Woman", "kadın", "800", "1000", "950", "Golden Lasso");
         } else if (superHero.equalsIgnoreCase("SpiderMan")) {
             return new SpiderMan("spiderMan", "erkek", "700", "750", "800", "Web Shooting");
         } else if (superHero.equalsIgnoreCase("Batman")) {

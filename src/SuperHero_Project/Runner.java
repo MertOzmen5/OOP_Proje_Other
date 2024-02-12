@@ -11,11 +11,11 @@ public class Runner {
         List<String> allHeroes = new ArrayList<>();
 
 
-        allHeroes.add("batman".toUpperCase());
-        allHeroes.add("superman".toUpperCase());
-        allHeroes.add("spiderman".toUpperCase());
-        allHeroes.add("wolverine".toUpperCase());
-        allHeroes.add("wonder woman".toUpperCase());
+        allHeroes.add("batman");
+        allHeroes.add("superman");
+        allHeroes.add("spiderman");
+        allHeroes.add("wolverine");
+        allHeroes.add("wonder woman");
 
         System.out.println("Süper kahramanlar gösterisine hoş geldiniz...");
         System.out.println("Mevcut süper kahramanlar : " + allHeroes);
